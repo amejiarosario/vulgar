@@ -61,7 +61,7 @@ $ vulgar init <nameOfApplication>
 $ cd <nameOfApplication>
 
 # add required global libraries
-$ npm install -g typings webpack webpack-dev-server concurrently
+$ npm install -g typings webpack webpack-dev-server concurrently gulp-cli
 
 # install the repo with npm
 # required only if you declined automated dependency installation
